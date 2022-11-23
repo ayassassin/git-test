@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("pull test");
         System.out.println("pull gitee");
         System.out.println("pull gitee");
+        System.out.println("码云更新测试");
     }
 }
